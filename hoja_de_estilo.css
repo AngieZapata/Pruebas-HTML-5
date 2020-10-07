@@ -1,0 +1,39 @@
+#header_principal{
+    background-color: limegreen;
+    margin: 20px;
+}
+
+nav{
+    background-color: lightgreen;
+    margin: 20px;
+    padding: 10px;
+}
+
+aside{
+    background-color: lightseagreen;
+    float: left;
+    height: 1350px;
+    margin: 20px;
+}
+
+section{
+    background-color: yellow;
+    margin-left: 280px;
+    margin-top: 45px;
+    
+}
+
+#pieprincipal{
+    background-color: lightcoral;
+    clear: both;
+}
+
+.menu_principal{
+    background-color: red;
+    display: inline;
+    padding: 5px;
+}
+
+#figura1{
+    
+}
